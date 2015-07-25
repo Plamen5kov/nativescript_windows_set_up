@@ -1,0 +1,29 @@
+﻿{
+  "name": "nativescriptsetup",
+  "version": "0.0.1",
+  "description": "once ran, this package will install everything necessary for nativescript to run",
+  "main": "nativescriptsetup/index.js",
+  "scripts": {
+    "test": "nativescriptsetup_tests\\run_tests.bat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plamen5kov/nativescript_windows_set_up.git"
+  },
+  "keywords": [
+    "nativescript",
+    "installer",
+    "native-script",
+    "native"
+  ],
+  "author": "Plamen Petkov <plamen.krasimirov.petkov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Plamen5kov/nativescript_windows_set_up/issues"
+  },
+  "homepage": "https://github.com/Plamen5kov/nativescript_windows_set_up#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
