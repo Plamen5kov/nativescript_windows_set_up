@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "nativescriptsetup",
   "version": "0.0.1",
   "description": "once ran, this package will install everything necessary for nativescript to run",
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Plamen5kov/nativescript_windows_set_up#readme",
   "devDependencies": {
+    "async": "^1.4.0",
     "chai": "^3.2.0",
     "mocha": "^2.2.5"
   }
