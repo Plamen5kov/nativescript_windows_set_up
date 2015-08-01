@@ -1,1 +1,1 @@
-node_modules\.bin\mocha --reporter spec nativescriptsetup_tests & PAUSE
+node_modules\.bin\mocha --reporter nyan nativescriptsetup_tests & PAUSE
